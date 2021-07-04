@@ -18,5 +18,6 @@
    <li>See my LinkedIn: <a href = "https://www.linkedin.com/in/warlem-junior-viana-ventura-96275420a/">Warlem Junior<a/>
    </ul>
   
+     
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WarlemJunior&show_icons=true&theme=radical)
 
- 
