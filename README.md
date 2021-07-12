@@ -11,7 +11,7 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a><br>
  <hr>
-  👋Hi. I'm Warlem Junior, but you can call me <strong>Junior</strong>. I'm a student developer web fullstack from Brazil.💚💛 Student of Análise e desenvolvimento de sistemas at Fatec - SP. 📚 21 years old. Programing is my favorite past time 💻 A book lover 📕, an aspiring musician 🎷. <br><br>
+  👋Hi. I'm Warlem Junior, but you can call me <strong>Junior</strong>. I'm a student developer web fullstack from Brazil.💚💛 Student of Análise e desenvolvimento de sistemas at Fatec - SP. 📚 21 years old. Programing is my favorite past time 💻 A book lover 📕. <br><br>
   <ul>
    <li>👽Learning any tecnology that apears on my way
    <li>✍🏻Learning HTML, CSS and JavaScript 
