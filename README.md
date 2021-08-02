@@ -15,6 +15,6 @@
   
      
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WarlemJunior&show_icons=true&theme=radical)
- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarlemJunior&layout=compact&langs_count=7&theme=radical"/>     
+ <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarlemJunior&layout=compact&langs_count=7&theme=radical"/>     
 
      
