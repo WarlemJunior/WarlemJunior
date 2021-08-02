@@ -1,15 +1,10 @@
 ### 👋 Hello World, I'm Warlem Junior 🌎
-<a target="_blank" href="https://www.linkedin.com/in/warlem-junior-viana-ventura-96275420a/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a> 
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5515981375472&text=Ol%C3%A1%20Warlem%20Junior!%20Vi%20o%20seu%20perfil%20no%20GitHub%2C%20vamos%20conversar%3F">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-<a target="_blank" href="">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a> 
-<a target="_blank" href="mailto:warlem.wj@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a><br>
+<div> 
+  <a href="https://www.youtube.com/channel/UCBBiohQcgYqG0LSA81hxf3g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/@warlem.junior" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href = "mailto:warlem.wj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/warlem-junior-viana-ventura-96275420a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
  <hr>
   👋Hi. I'm Warlem Junior, but you can call me <strong>Junior</strong>. I'm a student developer web fullstack from Brazil.💚💛 Student of Análise e desenvolvimento de sistemas at Fatec - SP. 📚 21 years old. Programing is my favorite past time 💻 A book lover 📕. <br><br>
   <ul>
@@ -20,4 +15,6 @@
   
      
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WarlemJunior&show_icons=true&theme=radical)
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarlemJunior&layout=compact&langs_count=7&theme=radical"/>     
 
+     
