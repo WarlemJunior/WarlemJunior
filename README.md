@@ -9,7 +9,7 @@
   👋Hi. I'm Warlem Junior, but you can call me <strong>Junior</strong>. I'm a student developer web fullstack from Brazil.💚💛 Student of Análise e desenvolvimento de sistemas at Fatec - SP. 📚 21 years old. Programing is my favorite past time 💻. A book lover 📕. <br><br>
   <ul>
    
-   <li>✍🏻Learning HTML, CSS and JavaScript 
+   
    <li>See my LinkedIn: <a href = "https://www.linkedin.com/in/warlem-junior-viana-ventura-96275420a/">Warlem Junior<a/>
    </ul>
   
