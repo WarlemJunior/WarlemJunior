@@ -10,7 +10,7 @@
   <ul>
    
    
-   <li>See my LinkedIn: <a href = "www.linkedin.com/in/WarlemJunior">Warlem Junior<a/>
+   <li>See my LinkedIn: <a href = "www.linkedin.com/in/WarlemJunior" target="_blank">Warlem Junior<a/>
    </ul>
   
      
